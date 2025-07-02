@@ -77,15 +77,17 @@ Let’s keep learning, building, and supporting each other. 🚀
 
 ---
 
-📞 Contact
+
+## 📞 Contact
+
 For any questions, feel free to open an issue or reach out to me:
 
-Email: dikshantsharmaji@gmail.com
-LinkedIn: https://www.linkedin.com/in/panditdikshantsharma
-GitHub: https://github.com/pandit-dikshant-sharma
-Instagram: https://instagram.com/pandit_dikshant_sharma
-Twitter: https://x.com/dikshant9528)  
-- 🌐 **Portfolio Website (optional)**: [yourwebsite.com](https://yourwebsite.com)
+- **Email**: dikshantsharmaji@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/panditdikshantsharma
+- **GitHub**: https://github.com/pandit-dikshant-sharma
+- **Instagram**: https://instagram.com/pandit_dikshant_sharma
+- **Twitter**: https://x.com/dikshant9528
+
 ---
 
 **Thanks for stopping by! 😊**
