@@ -1,54 +1,43 @@
-# 🐍 Introduction to Python for Data Analysis
+Introduction to Python for Data Analysis
+----------------------------------------
 
-Welcome to the **Introduction to Python** section — a beginner-friendly guide designed to help new data analysts get comfortable with Python basics.
+Welcome to the Introduction to Python section — a beginner-friendly guide designed to help new data analysts get comfortable with Python basics.
 
 Whether you're starting from scratch or just brushing up on core concepts, these notebooks will walk you through everything you need before diving into data manipulation, visualization, and machine learning.
 
----
+What You’ll Learn
+-----------------
+- Basic Python syntax and indentation
+- Variables, data types, and type conversion
+- Operators and expressions
+- Loops and control flow (if, for, while)
+- Functions and how to reuse code
+- Lists, tuples, dictionaries, and sets
+- Practice problems to reinforce your understanding
 
-## 📚 What You’ll Learn in This Section
+Files in This Folder
+--------------------
+01_variables_and_data_types.ipynb      - Intro to variables, data types, and type casting
+02_operators_and_expressions.ipynb     - Using arithmetic, logical, comparison operators
+03_control_flow_statements.ipynb       - Conditional logic using if, elif, else
+04_functions.ipynb                     - Writing and using functions
+05_lists_and_tuples.ipynb              - Working with lists and tuples
+06_dictionaries_and_sets.ipynb         - Using dictionaries and sets
+07_loops_and_iterations.ipynb          - Iterating with for and while loops
+08_practice_problems.ipynb             - Small exercises to practice what you’ve learned
 
-- 🧠 Basic Python syntax & indentation
-- 🧮 Variables, data types, and type conversion
-- ➗ Operators and expressions
-- 🔁 Loops and control flow (`if`, `for`, `while`)
-- 🔣 Functions and how to reuse code
-- 📦 Lists, tuples, dictionaries, and sets
-- 🧪 Practice problems to reinforce your understanding
-
----
-
-## 📂 Files in This Folder
-
-| File Name                           | Description                                      |
-|------------------------------------|--------------------------------------------------|
-| `01_variables_and_data_types.ipynb`      | Intro to variables, data types, and type casting |
-| `02_operators_and_expressions.ipynb`    | Using arithmetic, logical, comparison operators  |
-| `03_control_flow_statements.ipynb`      | Conditional logic using `if`, `elif`, `else`     |
-| `04_functions.ipynb`                     | Writing and using functions                      |
-| `05_lists_and_tuples.ipynb`             | Working with lists and tuples                    |
-| `06_dictionaries_and_sets.ipynb`        | Using dictionaries and sets                      |
-| `07_loops_and_iterations.ipynb`         | Iterating with `for` and `while` loops           |
-| `08_practice_problems.ipynb`            | Small exercises to practice what you’ve learned  |
-
----
-
-## ✅ Who Should Use This
-
+Who Should Use This
+-------------------
 - Beginners starting their data analyst journey
 - Anyone new to Python
 - Self-learners looking for structured practice
 
----
-
-## 💡 Tips
-
+Tips
+----
 - Run the code as you follow along. Don’t just read — try it yourself!
 - Take your time with the practice problems — solving them is where you really learn.
 - Use this section as a foundation before moving into NumPy, Pandas, and real-world datasets.
 
----
-
-## 🙌 Contribute or Connect
-
-If this helped you or you’d like to contribute, feel free to fork, raise issues, or submit a pull request. Let's grow and learn together as a data community! 🚀
+Contribute or Connect
+---------------------
+If this helped you or you’d like to contribute, feel free to fork, raise issues, or submit your own notebooks. Let's grow and learn together as a data community!
