@@ -20,8 +20,8 @@ Whether you're starting from scratch or just brushing up on core concepts, these
 
 ## 📂 Files in This Folder
 
-| File Name                          | Description                                      |
-|-----------------------------------|--------------------------------------------------|
+| File Name                           | Description                                      |
+|------------------------------------|--------------------------------------------------|
 | `01_variables_and_data_types.ipynb`      | Intro to variables, data types, and type casting |
 | `02_operators_and_expressions.ipynb`    | Using arithmetic, logical, comparison operators  |
 | `03_control_flow_statements.ipynb`      | Conditional logic using `if`, `elif`, `else`     |
@@ -45,9 +45,10 @@ Whether you're starting from scratch or just brushing up on core concepts, these
 
 - Run the code as you follow along. Don’t just read — try it yourself!
 - Take your time with the practice problems — solving them is where you really learn.
-- Use this section as a foundation before moving into NumPy, Pandas, and real datasets.
+- Use this section as a foundation before moving into NumPy, Pandas, and real-world datasets.
 
 ---
 
-Happy learning! 🚀 If you get stuck or want to contribute improvements, feel free to open an issue or submit a pull request.
+## 🙌 Contribute or Connect
 
+If this helped you or you’d like to contribute, feel free to fork, raise issues, or submit a pull request. Let's grow and learn together as a data community! 🚀
